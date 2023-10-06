@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.row{
+    background-color: purple;
+    padding-left: 5%;
+    padding-top: 2px;
+    height: auto;
+}
+
+.button{
+    height: 100px;
+    width: 100px;
+    margin: 5px 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.row input{
+    width: 38%;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
